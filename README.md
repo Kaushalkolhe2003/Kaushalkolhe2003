@@ -1,4 +1,4 @@
-![logo](https://github.com/Kaushalkolhe2003/Kaushalkolhe2003/blob/main/Software-Development-Process-Steps.png)
+
 
 <h1 align="center">Hi 👋, I'm Kaushal Kolhe</h1>
 <h3 align="center">Emerging Software Engineer | Java Specialist | Creative Thinker</h3>
